@@ -1,0 +1,10 @@
+Requirement already satisfied: openpyxl in c:\users\nacho\appdata\local\programs\python\python310\lib\site-packages (3.0.10)
+Collecting openpyxl
+  Using cached openpyxl-3.1.5-py2.py3-none-any.whl (250 kB)
+Requirement already satisfied: et-xmlfile in c:\users\nacho\appdata\local\programs\python\python310\lib\site-packages (from openpyxl) (2.0.0)
+Installing collected packages: openpyxl
+  Attempting uninstall: openpyxl
+    Found existing installation: openpyxl 3.0.10
+    Uninstalling openpyxl-3.0.10:
+      Successfully uninstalled openpyxl-3.0.10
+Successfully installed openpyxl-3.1.5
